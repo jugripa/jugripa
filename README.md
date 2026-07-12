@@ -44,6 +44,9 @@ My approach to building AI agents diverges from standard reactive chatbots. I fo
 
 ## 🚀 Featured Agentic Architecture (Tier 1 Projects)
 
+### [Agentic Career Suite (`career-strategist`)](https://github.com/jugripa/career-strategist)
+An open-source, 1-folder agentic skill harness for Antigravity, Claude Code, and Cursor. Separates raw text ingestion (`markitdown`) from visual layout cloning (`Multimodal Vision + Tectonic LaTeX`) to eliminate credential hallucination and power a 5-Phase STAR-G interview lifecycle engine.
+
 ### [Agentic Assistant Template (MCP & API Architecture)](https://github.com/jugripa/agentic-assistant-template)
 A portable, engine-agnostic meta-framework. Uses file-based persistent memory and horizontal skills directories to solve LLM context constraints and standardize multi-agent operations.
 
