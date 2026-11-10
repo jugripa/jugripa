@@ -44,6 +44,9 @@ My approach to building AI agents diverges from standard reactive chatbots. I fo
 
 ## 🚀 Featured Agentic Architecture (Tier 1 Projects)
 
+### [MEM100: Autonomous Agent Memory & Self-Improvement Engine (`mem100`)](https://github.com/jugripa/mem100)
+Domain-agnostic, zero-dependency two-tier memory engine (`JSONL` + Markdown dossiers) for AI agent harnesses. Features 1-call batched TypeSafe Jev semantic retrieval (`~0.3s`), local Okapi BM25 fallback (`< 5ms`), routine-isolated transcript harvesting, and deterministic cross-age consolidation (`dream-cycle` and `system-improvement`).
+
 ### [Physical AI Requirements Framework](https://github.com/jugripa/physicalai-requirements-framework)
 End-to-end requirements gathering, architecture, and Gantt generation framework for IIoT, Robotics, and Physical AI.
 
